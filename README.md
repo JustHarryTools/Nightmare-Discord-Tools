@@ -12,7 +12,7 @@ Check Out https://github.com/JustHarryTools
 	🟢Token Crasher
 	🟢Token Nuker
 	🟢Webhook Spammer
-	🟢~NOT DETECTED BY WINDOWS DEFENDER~
+	🟣NOT DETECTED BY WINDOWS DEFENDER AND SOME OTHER ANTI VIRUSES
 # To Do
 	💎Add Token Grabber
 	💎Add EXE Version Builder
